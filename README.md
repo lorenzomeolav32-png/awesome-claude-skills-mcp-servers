@@ -159,7 +159,7 @@
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). PRs welcome — new entries need a real,
+See [CONTRIBUTING.md](CONTRIBUTING.md). PRs welcome. New entries need a real,
 permissively-licensed source and a one-line description of what they do.
 
 ## Why this list exists
