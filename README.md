@@ -4,8 +4,9 @@
 
 > A curated, open-source list of Claude Skills, MCP servers, Copilot agents, AI
 > workflows and Cursor rules. Entries marked **verified** were installed and
-> tested by [AI Assets Directory](https://aiassetsdirectory.com) — every listing there also has a
-> last-verified date, a works-with matrix, and copy-paste install steps.
+> tested by [AI Assets Directory](https://aiassetsdirectory.com), which also tracks a
+> last-verified date, a works-with matrix, and copy-paste install steps for
+> each one.
 
 ## Contents
 
