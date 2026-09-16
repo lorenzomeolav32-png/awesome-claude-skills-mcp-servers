@@ -10,7 +10,7 @@
 
 ## Contents
 
-- [Claude Skills (67)](#claude-skills-67)
+- [Claude Skills (68)](#claude-skills-68)
 - [MCP Servers (19)](#mcp-servers-19)
 - [Copilot Agents (30)](#copilot-agents-30)
 - [AI Workflows (5)](#ai-workflows-5)
@@ -19,7 +19,7 @@
 
 ---
 
-## Claude Skills (67)
+## Claude Skills (68)
 
 - [Frontend Design](https://aiassetsdirectory.com/claude-skills/frontend-design) - Generates distinctive, production-grade UI that avoids generic "AI slop," with bold typography, cohesive color, and precise motion, implemented as real code. (`Apache-2.0`, verified, [source](https://github.com/anthropics/skills/tree/main/skills/frontend-design))
 - [Agentic Awesome Skills (AAS Core)](https://aiassetsdirectory.com/claude-skills/agentic-awesome-skills) - A 2,100+ skill catalog plus AAS Core, a local CLI/MCP control plane that lets Codex or Claude search, compose and validate an exact, reviewable skill stack before anything is installed. (`MIT`, verified, [source](https://github.com/sickn33/agentic-awesome-skills))
@@ -88,6 +88,7 @@
 - [YouTube Ads Audit](https://aiassetsdirectory.com/claude-skills/claude-ads-youtube) - Audits YouTube Ads across Shorts, in-stream and CTV inventory, kept as its own review even when Google Ads supplies the underlying data. (`MIT`, [source](https://github.com/AgriciDaniel/claude-ads/tree/main/skills/ads-youtube))
 - [Claude Ads](https://aiassetsdirectory.com/claude-skills/claude-ads) - Turns your ad account data into evidence-backed audits, plans and creative briefs across all 12 major ad platforms, and only touches a live campaign once you've explicitly approved the change. (`MIT`, [source](https://github.com/AgriciDaniel/claude-ads))
 - [Generative Media Skills](https://aiassetsdirectory.com/claude-skills/generative-media-skills) - A Core/Library collection of 41 SKILL.md recipes (cinematography, branding, product ads, UGC video) that drive 100+ image/video/audio models through the MuAPI backend, for Claude Code, Cursor, Gemini CLI and OpenCode. (`MIT`, [source](https://github.com/SamurAIGPT/Generative-Media-Skills))
+- [YYLO Skills](https://github.com/yylo-dev/yylo-skills) - Seven reusable agent skills for YYLO Ledger task management, durable Markdown knowledge, workflow validation, provenance-bound artifacts, project understanding, planning and task execution, installable for Claude Code, Codex and Pi via the open skills CLI. (`MIT`, [source](https://github.com/yylo-dev/yylo-skills))
 
 ## MCP Servers (19)
 
