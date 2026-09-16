@@ -11,7 +11,7 @@
 ## Contents
 
 - [Claude Skills (67)](#claude-skills-67)
-- [MCP Servers (19)](#mcp-servers-19)
+- [MCP Servers (20)](#mcp-servers-20)
 - [Copilot Agents (30)](#copilot-agents-30)
 - [AI Workflows (5)](#ai-workflows-5)
 - [Cursor Rules (2)](#cursor-rules-2)
@@ -89,10 +89,11 @@
 - [Claude Ads](https://aiassetsdirectory.com/claude-skills/claude-ads) - Turns your ad account data into evidence-backed audits, plans and creative briefs across all 12 major ad platforms, and only touches a live campaign once you've explicitly approved the change. (`MIT`, [source](https://github.com/AgriciDaniel/claude-ads))
 - [Generative Media Skills](https://aiassetsdirectory.com/claude-skills/generative-media-skills) - A Core/Library collection of 41 SKILL.md recipes (cinematography, branding, product ads, UGC video) that drive 100+ image/video/audio models through the MuAPI backend, for Claude Code, Cursor, Gemini CLI and OpenCode. (`MIT`, [source](https://github.com/SamurAIGPT/Generative-Media-Skills))
 
-## MCP Servers (19)
+## MCP Servers (20)
 
 - [Awesome MCP Servers](https://aiassetsdirectory.com/mcp-servers/awesome-mcp-servers) - The largest community catalog of MCP servers: thousands of entries across dozens of categories (databases, browser automation, cloud, communication and more), tagged by language and scope. (`MIT`, verified, [source](https://github.com/punkpeye/awesome-mcp-servers))
 - [Context7](https://aiassetsdirectory.com/mcp-servers/context7-mcp) - Pulls updated, version-specific documentation and code examples straight from the source into your prompt, so agents stop citing outdated APIs or hallucinating ones that don't exist. (`MIT`, verified, [source](https://github.com/upstash/context7))
+- [ContextStream](https://github.com/contextstream/mcp-server) - Shared project context for AI coding agents: hosted MCP with code search, decisions, lessons, and plans. (`MIT`, [source](https://github.com/contextstream/mcp-server))
 - [Playwright MCP](https://aiassetsdirectory.com/mcp-servers/playwright-mcp) - Microsoft's official MCP server for browser automation, driving Playwright through structured accessibility snapshots instead of screenshots, so any MCP client can browse, click and fill forms without a vision model. (`Apache-2.0`, verified, [source](https://github.com/microsoft/playwright-mcp))
 - [GitHub MCP Server](https://aiassetsdirectory.com/mcp-servers/github-mcp-server) - GitHub's official MCP server, connecting AI agents directly to GitHub's platform to read repos, manage issues/PRs, analyze code and automate CI/CD workflows. (`MIT`, verified, [source](https://github.com/github/github-mcp-server))
 - [AWS MCP Servers](https://aiassetsdirectory.com/mcp-servers/aws-mcp-servers) - AWS Labs' official collection of 80+ MCP servers, one per AWS service area (documentation, IaC, databases, serverless, cost, observability), each installable independently via uvx or Docker. (`Apache-2.0`, verified, [source](https://github.com/awslabs/mcp))
