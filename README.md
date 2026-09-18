@@ -10,7 +10,7 @@
 
 ## Contents
 
-- [Claude Skills (69)](#claude-skills-69)
+- [Claude Skills (71)](#claude-skills-71)
 - [MCP Servers (19)](#mcp-servers-19)
 - [Copilot Agents (30)](#copilot-agents-30)
 - [AI Workflows (5)](#ai-workflows-5)
@@ -19,11 +19,14 @@
 
 ---
 
-## Claude Skills (69)
+## Claude Skills (71)
 
 - [Frontend Design](https://aiassetsdirectory.com/claude-skills/frontend-design) - Generates distinctive, production-grade UI that avoids generic "AI slop," with bold typography, cohesive color, and precise motion, implemented as real code. (`Apache-2.0`, verified, [source](https://github.com/anthropics/skills/tree/main/skills/frontend-design))
+- [Graphify](https://aiassetsdirectory.com/claude-skills/graphify) - Turns a codebase, plus its docs, PDFs, images, and video, into a queryable knowledge graph that a coding agent can traverse instead of grepping raw files, and never guesses silently: every edge is tagged EXTRACTED, INFERRED, or AMBIGUOUS so you know what was found versus inferred. (`Apache-2.0`, verified, [source](https://github.com/Graphify-Labs/graphify))
 - [Agentic Awesome Skills (AAS Core)](https://aiassetsdirectory.com/claude-skills/agentic-awesome-skills) - A 2,100+ skill catalog plus AAS Core, a local CLI/MCP control plane that lets Codex or Claude search, compose and validate an exact, reviewable skill stack before anything is installed. (`MIT`, verified, [source](https://github.com/sickn33/agentic-awesome-skills))
 - [Humanizer](https://aiassetsdirectory.com/claude-skills/humanizer) - Rewrites AI-sounding text so it reads like a person wrote it, stripping filler, inflated claims, em-dashes and chatbot artifacts without changing what it says. (`MIT`, verified, [source](https://github.com/blader/humanizer))
+- [Fullstack Dev Skills (Claude Skills)](https://aiassetsdirectory.com/claude-skills/fullstack-dev-skills) - Turns Claude Code into a full-stack pair programmer with 67 specialized language, framework, and DevOps skills that activate on their own based on what you're building, so a small bug fix never drags in an entire enterprise-scale skill stack. (`MIT`, verified, [source](https://github.com/Jeffallan/claude-skills))
+- [Deep Research Skill](https://aiassetsdirectory.com/claude-skills/deep-research-skill) - Runs research as a two-phase, human-in-the-loop workflow instead of one free-form web search: it drafts a reviewable outline first, then dispatches parallel search agents per item, so you approve the research plan before any agent starts digging. (`MIT`, verified, [source](https://github.com/Weizhena/Deep-Research-skills))
 - [Complete Website Builder](https://aiassetsdirectory.com/claude-skills/complete-website-builder) - Builds a production-grade, agency-quality marketing website in one self-contained HTML file, with real researched photos, GSAP animations, glassmorphism, and a persona library picked for your business type. (`MIT`, verified, [source](https://github.com/lorenzomeolav32-png/ai-assets-directory-skills/tree/main/skills/complete-website-builder))
 - [Create Skill](https://aiassetsdirectory.com/claude-skills/create-skill) - Scaffolds high quality Claude Code skills and slash commands with correct frontmatter, conventions and worked examples. (`MIT`, verified, [source](https://github.com/lorenzomeolav32-png/ai-assets-directory-skills/tree/main/skills/create-skill))
 - [Job Application Message](https://aiassetsdirectory.com/claude-skills/job-message) - Writes short, punchy job application messages for portals and forms, grounded only in your real CV and never invented. (`MIT`, verified, [source](https://github.com/lorenzomeolav32-png/ai-assets-directory-skills/tree/main/skills/job-message))
@@ -88,7 +91,6 @@
 - [YouTube Ads Audit](https://aiassetsdirectory.com/claude-skills/claude-ads-youtube) - Audits YouTube Ads across Shorts, in-stream and CTV inventory, kept as its own review even when Google Ads supplies the underlying data. (`MIT`, [source](https://github.com/AgriciDaniel/claude-ads/tree/main/skills/ads-youtube))
 - [Claude Ads](https://aiassetsdirectory.com/claude-skills/claude-ads) - Turns your ad account data into evidence-backed audits, plans and creative briefs across all 12 major ad platforms, and only touches a live campaign once you've explicitly approved the change. (`MIT`, [source](https://github.com/AgriciDaniel/claude-ads))
 - [Generative Media Skills](https://aiassetsdirectory.com/claude-skills/generative-media-skills) - A Core/Library collection of 41 SKILL.md recipes (cinematography, branding, product ads, UGC video) that drive 100+ image/video/audio models through the MuAPI backend, for Claude Code, Cursor, Gemini CLI and OpenCode. (`MIT`, [source](https://github.com/SamurAIGPT/Generative-Media-Skills))
-- [Fullstack Dev Skills (Claude Skills)](https://aiassetsdirectory.com/claude-skills/fullstack-dev-skills) - Turns Claude Code into a full-stack pair programmer with 67 specialized language, framework, and DevOps skills that activate on their own based on what you're building, so a small bug fix never drags in an entire enterprise-scale skill stack. (`MIT`, [source](https://github.com/Jeffallan/claude-skills))
 - [Magic Hour Image to Video](https://aiassetsdirectory.com/claude-skills/magic-hour-image-to-video) - Guides an agent through turning a photo into a short Magic Hour video, fixing the still frame first so identity, product and text stay intact before it spends credits on motion. (`MIT`, [source](https://github.com/magichourhq/skills/tree/main/skills/magic-hour-image-to-video))
 
 ## MCP Servers (19)
