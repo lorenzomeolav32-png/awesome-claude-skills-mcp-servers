@@ -11,7 +11,7 @@
 ## Contents
 
 - [Claude Skills (71)](#claude-skills-71)
-- [MCP Servers (19)](#mcp-servers-19)
+- [MCP Servers (20)](#mcp-servers-20)
 - [Copilot Agents (30)](#copilot-agents-30)
 - [AI Workflows (5)](#ai-workflows-5)
 - [Cursor Rules (2)](#cursor-rules-2)
@@ -93,7 +93,7 @@
 - [Generative Media Skills](https://aiassetsdirectory.com/claude-skills/generative-media-skills) - A Core/Library collection of 41 SKILL.md recipes (cinematography, branding, product ads, UGC video) that drive 100+ image/video/audio models through the MuAPI backend, for Claude Code, Cursor, Gemini CLI and OpenCode. (`MIT`, [source](https://github.com/SamurAIGPT/Generative-Media-Skills))
 - [Magic Hour Image to Video](https://aiassetsdirectory.com/claude-skills/magic-hour-image-to-video) - Guides an agent through turning a photo into a short Magic Hour video, fixing the still frame first so identity, product and text stay intact before it spends credits on motion. (`MIT`, [source](https://github.com/magichourhq/skills/tree/main/skills/magic-hour-image-to-video))
 
-## MCP Servers (19)
+## MCP Servers (20)
 
 - [Awesome MCP Servers](https://aiassetsdirectory.com/mcp-servers/awesome-mcp-servers) - The largest community catalog of MCP servers: thousands of entries across dozens of categories (databases, browser automation, cloud, communication and more), tagged by language and scope. (`MIT`, verified, [source](https://github.com/punkpeye/awesome-mcp-servers))
 - [Context7](https://aiassetsdirectory.com/mcp-servers/context7-mcp) - Pulls updated, version-specific documentation and code examples straight from the source into your prompt, so agents stop citing outdated APIs or hallucinating ones that don't exist. (`MIT`, verified, [source](https://github.com/upstash/context7))
@@ -107,6 +107,7 @@
 - [Neon MCP Server](https://aiassetsdirectory.com/mcp-servers/neon-mcp-server) - Neon's official, remote MCP server for its serverless Postgres platform, letting an agent create and branch databases, test migrations on a temporary branch first, and tune slow queries, all through natural language. (`MIT`, verified, [source](https://github.com/neondatabase/mcp-server-neon))
 - [Redis MCP Server](https://aiassetsdirectory.com/mcp-servers/redis-mcp-server) - Redis's official MCP server, letting an agent run natural-language data operations across strings, hashes, lists, sets, sorted sets, streams, pub/sub and JSON, plus manage vector indexes for search. (`MIT`, verified, [source](https://github.com/redis/mcp-redis))
 - [Docker Hub MCP Server](https://aiassetsdirectory.com/mcp-servers/docker-hub-mcp) - Docker's official MCP server for Docker Hub, letting an agent search images, inspect tags and manage your own repositories in natural language, with built-in support for Docker Hardened Images. (`Apache-2.0`, verified, [source](https://github.com/docker/hub-mcp))
+- [ContextStream](https://aiassetsdirectory.com/mcp-servers/contextstream) - Gives coding agents persistent memory across sessions and tools: semantic code search plus saved decisions, lessons, and plans, so you stop re-explaining project context every new chat. (`MIT`, verified, [source](https://github.com/contextstream/mcp-server))
 - [Everything MCP Server](https://aiassetsdirectory.com/mcp-servers/mcp-everything) - Official reference/test MCP server that exercises the full protocol (prompts, tools, resources, sampling), built for people writing MCP clients rather than end users. (`MIT`, verified, [source](https://github.com/modelcontextprotocol/servers/tree/main/src/everything))
 - [Fetch MCP Server](https://aiassetsdirectory.com/mcp-servers/mcp-fetch) - Official reference MCP server for fetching web pages and converting HTML to markdown, with chunked reads so an agent can page through long content. (`MIT`, verified, [source](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch))
 - [Filesystem MCP Server](https://aiassetsdirectory.com/mcp-servers/mcp-filesystem) - The official reference MCP server for filesystem access, letting an agent read, write, edit, move and search files inside directories you explicitly allow through MCP Roots. (`MIT`, verified, [source](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem))
