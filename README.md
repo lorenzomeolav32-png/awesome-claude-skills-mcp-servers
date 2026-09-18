@@ -10,7 +10,7 @@
 
 ## Contents
 
-- [Claude Skills (71)](#claude-skills-71)
+- [Claude Skills (72)](#claude-skills-72)
 - [MCP Servers (21)](#mcp-servers-21)
 - [Copilot Agents (30)](#copilot-agents-30)
 - [AI Workflows (5)](#ai-workflows-5)
@@ -19,7 +19,7 @@
 
 ---
 
-## Claude Skills (71)
+## Claude Skills (72)
 
 - [Frontend Design](https://aiassetsdirectory.com/claude-skills/frontend-design) - Generates distinctive, production-grade UI that avoids generic "AI slop," with bold typography, cohesive color, and precise motion, implemented as real code. (`Apache-2.0`, verified, [source](https://github.com/anthropics/skills/tree/main/skills/frontend-design))
 - [Graphify](https://aiassetsdirectory.com/claude-skills/graphify) - Turns a codebase, plus its docs, PDFs, images, and video, into a queryable knowledge graph that a coding agent can traverse instead of grepping raw files, and never guesses silently: every edge is tagged EXTRACTED, INFERRED, or AMBIGUOUS so you know what was found versus inferred. (`Apache-2.0`, verified, [source](https://github.com/Graphify-Labs/graphify))
@@ -56,6 +56,7 @@
 - [Search Experience Optimization (SXO)](https://aiassetsdirectory.com/claude-skills/claude-seo-sxo) - Audits Search Experience Optimization, from page-type detection to user stories and persona alignment. (`MIT`, [source](https://github.com/AgriciDaniel/claude-seo/tree/main/skills/seo-sxo))
 - [SEO Technical Audit](https://aiassetsdirectory.com/claude-skills/claude-seo-technical) - Audits your technical SEO across 9 categories, from crawlability and indexation to Core Web Vitals and structured data. (`MIT`, [source](https://github.com/AgriciDaniel/claude-seo/tree/main/skills/seo-technical))
 - [Claude SEO](https://aiassetsdirectory.com/claude-skills/claude-seo) - Runs 25 SEO sub-skills and 18 specialist subagents in parallel, covering technical SEO, E-E-A-T, Schema.org and GEO/AEO, and turns the findings into one falsifiable action plan. (`MIT`, [source](https://github.com/AgriciDaniel/claude-seo))
+- [Security Audit (Cloudflare)](https://aiassetsdirectory.com/claude-skills/security-audit-skill) - Turns a coding agent into a structured security auditor: isolated hunter agents map coverage and find candidates, then a separate verifier agent tries to disprove each one before it's reported as confirmed. (`MIT`, [source](https://github.com/cloudflare/security-audit-skill))
 - [Amazon Ads Audit](https://aiassetsdirectory.com/claude-skills/claude-ads-amazon) - Audits your Amazon Ads account across Sponsored Products, Brands, Display and DSP, and flags what's actually hurting your ACOS before you touch a budget. (`MIT`, [source](https://github.com/AgriciDaniel/claude-ads/tree/main/skills/ads-amazon))
 - [Apple Ads Audit](https://aiassetsdirectory.com/claude-skills/claude-ads-apple) - Audits your Apple Search Ads account and reconciles AdAttributionKit data against your MMP, so you know which App Store campaigns are actually driving installs. (`MIT`, [source](https://github.com/AgriciDaniel/claude-ads/tree/main/skills/ads-apple))
 - [Attribution Audit](https://aiassetsdirectory.com/claude-skills/claude-ads-attribution) - Reconciles conversion data across GA4, MMPs, AdAttributionKit and every ad platform, and refuses to add incompatible reporting windows together just to produce one clean number. (`MIT`, [source](https://github.com/AgriciDaniel/claude-ads/tree/main/skills/ads-attribution))
