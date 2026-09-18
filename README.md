@@ -10,7 +10,7 @@
 
 ## Contents
 
-- [Claude Skills (68)](#claude-skills-68)
+- [Claude Skills (69)](#claude-skills-69)
 - [MCP Servers (19)](#mcp-servers-19)
 - [Copilot Agents (30)](#copilot-agents-30)
 - [AI Workflows (5)](#ai-workflows-5)
@@ -19,7 +19,7 @@
 
 ---
 
-## Claude Skills (68)
+## Claude Skills (69)
 
 - [Frontend Design](https://aiassetsdirectory.com/claude-skills/frontend-design) - Generates distinctive, production-grade UI that avoids generic "AI slop," with bold typography, cohesive color, and precise motion, implemented as real code. (`Apache-2.0`, verified, [source](https://github.com/anthropics/skills/tree/main/skills/frontend-design))
 - [Agentic Awesome Skills (AAS Core)](https://aiassetsdirectory.com/claude-skills/agentic-awesome-skills) - A 2,100+ skill catalog plus AAS Core, a local CLI/MCP control plane that lets Codex or Claude search, compose and validate an exact, reviewable skill stack before anything is installed. (`MIT`, verified, [source](https://github.com/sickn33/agentic-awesome-skills))
@@ -88,6 +88,7 @@
 - [YouTube Ads Audit](https://aiassetsdirectory.com/claude-skills/claude-ads-youtube) - Audits YouTube Ads across Shorts, in-stream and CTV inventory, kept as its own review even when Google Ads supplies the underlying data. (`MIT`, [source](https://github.com/AgriciDaniel/claude-ads/tree/main/skills/ads-youtube))
 - [Claude Ads](https://aiassetsdirectory.com/claude-skills/claude-ads) - Turns your ad account data into evidence-backed audits, plans and creative briefs across all 12 major ad platforms, and only touches a live campaign once you've explicitly approved the change. (`MIT`, [source](https://github.com/AgriciDaniel/claude-ads))
 - [Generative Media Skills](https://aiassetsdirectory.com/claude-skills/generative-media-skills) - A Core/Library collection of 41 SKILL.md recipes (cinematography, branding, product ads, UGC video) that drive 100+ image/video/audio models through the MuAPI backend, for Claude Code, Cursor, Gemini CLI and OpenCode. (`MIT`, [source](https://github.com/SamurAIGPT/Generative-Media-Skills))
+- [Fullstack Dev Skills (Claude Skills)](https://aiassetsdirectory.com/claude-skills/fullstack-dev-skills) - Turns Claude Code into a full-stack pair programmer with 67 specialized language, framework, and DevOps skills that activate on their own based on what you're building, so a small bug fix never drags in an entire enterprise-scale skill stack. (`MIT`, [source](https://github.com/Jeffallan/claude-skills))
 - [Magic Hour Image to Video](https://aiassetsdirectory.com/claude-skills/magic-hour-image-to-video) - Guides an agent through turning a photo into a short Magic Hour video, fixing the still frame first so identity, product and text stay intact before it spends credits on motion. (`MIT`, [source](https://github.com/magichourhq/skills/tree/main/skills/magic-hour-image-to-video))
 
 ## MCP Servers (19)
