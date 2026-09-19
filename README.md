@@ -96,6 +96,7 @@
 
 ## MCP Servers (21)
 
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 - [Awesome MCP Servers](https://aiassetsdirectory.com/mcp-servers/awesome-mcp-servers) - The largest community catalog of MCP servers: thousands of entries across dozens of categories (databases, browser automation, cloud, communication and more), tagged by language and scope. (`MIT`, verified, [source](https://github.com/punkpeye/awesome-mcp-servers))
 - [Context7](https://aiassetsdirectory.com/mcp-servers/context7-mcp) - Pulls updated, version-specific documentation and code examples straight from the source into your prompt, so agents stop citing outdated APIs or hallucinating ones that don't exist. (`MIT`, verified, [source](https://github.com/upstash/context7))
 - [Playwright MCP](https://aiassetsdirectory.com/mcp-servers/playwright-mcp) - Microsoft's official MCP server for browser automation, driving Playwright through structured accessibility snapshots instead of screenshots, so any MCP client can browse, click and fill forms without a vision model. (`Apache-2.0`, verified, [source](https://github.com/microsoft/playwright-mcp))
