@@ -117,6 +117,7 @@
 - [Memory MCP Server](https://aiassetsdirectory.com/mcp-servers/mcp-memory) - The official reference MCP server for persistent memory, storing a local knowledge graph of entities, relations and observations so an agent remembers facts across chats. (`MIT`, verified, [source](https://github.com/modelcontextprotocol/servers/tree/main/src/memory))
 - [Sequential Thinking MCP Server](https://aiassetsdirectory.com/mcp-servers/mcp-sequential-thinking) - The official reference MCP server for structured, step-by-step reasoning, letting an agent break a problem into revisable, branching thoughts instead of a one-shot answer. (`MIT`, verified, [source](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking))
 - [Time MCP Server](https://aiassetsdirectory.com/mcp-servers/mcp-time) - Official reference MCP server for time and IANA timezone conversion, with automatic system-timezone detection. (`MIT`, verified, [source](https://github.com/modelcontextprotocol/servers/tree/main/src/time))
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) - MIT-licensed, local-first CLI and MCP toolkit for agent-driven video composition, editing and generation from editable plan.json timelines. (MIT; unverified; install from source)
 
 ## Copilot Agents (30)
 
