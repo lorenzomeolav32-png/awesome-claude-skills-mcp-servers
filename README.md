@@ -10,7 +10,7 @@
 
 ## Contents
 
-- [Claude Skills (72)](#claude-skills-72)
+- [Claude Skills (74)](#claude-skills-74)
 - [MCP Servers (22)](#mcp-servers-22)
 - [Copilot Agents (30)](#copilot-agents-30)
 - [AI Workflows (5)](#ai-workflows-5)
@@ -19,13 +19,15 @@
 
 ---
 
-## Claude Skills (72)
+## Claude Skills (74)
 
 - [Frontend Design](https://aiassetsdirectory.com/claude-skills/frontend-design) - Generates distinctive, production-grade UI that avoids generic "AI slop," with bold typography, cohesive color, and precise motion, implemented as real code. (`Apache-2.0`, verified, [source](https://github.com/anthropics/skills/tree/main/skills/frontend-design))
 - [Graphify](https://aiassetsdirectory.com/claude-skills/graphify) - Turns a codebase, plus its docs, PDFs, images, and video, into a queryable knowledge graph that a coding agent can traverse instead of grepping raw files, and never guesses silently: every edge is tagged EXTRACTED, INFERRED, or AMBIGUOUS so you know what was found versus inferred. (`Apache-2.0`, verified, [source](https://github.com/Graphify-Labs/graphify))
+- [Caveman](https://aiassetsdirectory.com/claude-skills/caveman) - Makes your coding agent answer in a stripped down, high signal style that keeps every technical fact and cuts filler, saving output tokens on chat style questions. (`MIT`, verified, [source](https://github.com/JuliusBrussee/caveman))
 - [Agentic Awesome Skills (AAS Core)](https://aiassetsdirectory.com/claude-skills/agentic-awesome-skills) - A 2,100+ skill catalog plus AAS Core, a local CLI/MCP control plane that lets Codex or Claude search, compose and validate an exact, reviewable skill stack before anything is installed. (`MIT`, verified, [source](https://github.com/sickn33/agentic-awesome-skills))
 - [Humanizer](https://aiassetsdirectory.com/claude-skills/humanizer) - Rewrites AI-sounding text so it reads like a person wrote it, stripping filler, inflated claims, em-dashes and chatbot artifacts without changing what it says. (`MIT`, verified, [source](https://github.com/blader/humanizer))
 - [Fullstack Dev Skills (Claude Skills)](https://aiassetsdirectory.com/claude-skills/fullstack-dev-skills) - Turns Claude Code into a full-stack pair programmer with 67 specialized language, framework, and DevOps skills that activate on their own based on what you're building, so a small bug fix never drags in an entire enterprise-scale skill stack. (`MIT`, verified, [source](https://github.com/Jeffallan/claude-skills))
+- [/brag](https://aiassetsdirectory.com/claude-skills/brag) - Turns the project you just built into a short, shareable launch video with one command, reading your code directly instead of asking for a live URL. (`MIT`, verified, [source](https://github.com/latent-spaces/brag))
 - [Deep Research Skill](https://aiassetsdirectory.com/claude-skills/deep-research-skill) - Runs research as a two-phase, human-in-the-loop workflow instead of one free-form web search: it drafts a reviewable outline first, then dispatches parallel search agents per item, so you approve the research plan before any agent starts digging. (`MIT`, verified, [source](https://github.com/Weizhena/Deep-Research-skills))
 - [Complete Website Builder](https://aiassetsdirectory.com/claude-skills/complete-website-builder) - Builds a production-grade, agency-quality marketing website in one self-contained HTML file, with real researched photos, GSAP animations, glassmorphism, and a persona library picked for your business type. (`MIT`, verified, [source](https://github.com/lorenzomeolav32-png/ai-assets-directory-skills/tree/main/skills/complete-website-builder))
 - [Create Skill](https://aiassetsdirectory.com/claude-skills/create-skill) - Scaffolds high quality Claude Code skills and slash commands with correct frontmatter, conventions and worked examples. (`MIT`, verified, [source](https://github.com/lorenzomeolav32-png/ai-assets-directory-skills/tree/main/skills/create-skill))
